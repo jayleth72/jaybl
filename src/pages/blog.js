@@ -5,7 +5,11 @@ import Blogs from "../components/Blogs"
 // ...GatsbyImageSharpFluid
 
 const Blog = () => {
-  return <h2>blog page</h2>
+  return (
+    <Layout>
+      <h3>coming soon</h3>
+    </Layout>
+  )
 }
 
 export default Blog

@@ -5,7 +5,7 @@ import PageLinks from "../constants/links"
 
 const Navbar = () => {
   return (
-    <nav>
+    <nav className ="navbar">
       <div className="nav-center">
         <div className="nav-header">
           <img src={logo} alt="jay's logo"/>

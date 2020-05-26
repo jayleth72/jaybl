@@ -5,7 +5,11 @@ import Projects from "../components/Projects"
 // ...GatsbyImageSharpFluid
 
 const ProjectsPage = () => {
-  return <h2>projects page</h2>
+  return (
+    <Layout>
+      <h3>coming soon</h3>
+    </Layout>
+  )
 }
 
 export default ProjectsPage

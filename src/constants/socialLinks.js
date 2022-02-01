@@ -4,14 +4,15 @@ import {
   FaLinkedin,
   FaGithubSquare,
   FaTwitterSquare,
+  FaTelegram,
 } from "react-icons/fa"
 
 const data = [
-  {
-    id: 1,
-    icon: <FaFacebookSquare className="social-icon"></FaFacebookSquare>,
-    url: "https://www.facebook.com/jletheby1",
-  },
+  // {
+  //   id: 1,
+  //   icon: <FaTelegram className="social-icon"></FaTelegram>,
+  //   url: "https://www.facebook.com/jletheby1",
+  // },
   {
     id: 2,
     icon: <FaLinkedin className="social-icon"></FaLinkedin>,
